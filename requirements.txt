@@ -1,0 +1,6 @@
+requests
+sentence-transformers
+streamlit
+python-dotenv
+google-generativeai
+rank-bm25
